@@ -1,0 +1,20 @@
+{
+  "name": "laa55-it340-lab-7-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAceArm/laa55-IT340-Lab-7-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAceArm/laa55-IT340-Lab-7-repo/issues"
+  },
+  "homepage": "https://github.com/LAceArm/laa55-IT340-Lab-7-repo#readme"
+}
